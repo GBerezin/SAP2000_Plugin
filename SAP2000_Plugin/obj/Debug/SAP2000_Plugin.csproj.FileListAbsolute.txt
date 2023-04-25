@@ -1,0 +1,10 @@
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.csproj.AssemblyReference.cache
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.Form1.resources
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.csproj.GenerateResource.cache
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\bin\Debug\SAP2000_Plugin.dll
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\bin\Debug\SAP2000_Plugin.pdb
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\bin\Debug\SAP2000v1.dll
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.csproj.CopyComplete
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.dll
+C:\Users\georg\source\repos\SAP2000_Plugin\SAP2000_Plugin\obj\Debug\SAP2000_Plugin.pdb
